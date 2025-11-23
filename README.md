@@ -1,4 +1,4 @@
-📌 #Portfolio Website — Lab Assignment 3
+📌 Portfolio Website — Lab Assignment 3
 
 A fully responsive one‑page Portfolio Website built as per the requirements of Lab Assignment 3. This project implements Flexbox, CSS Grid, Media Queries, Responsive Units, Hover Effects, and a clean modern UI design.
 
